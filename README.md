@@ -1,4 +1,4 @@
-# Path Hiking App Backend
+# Path Exploration App Backend
 ![Path Architecture](https://github.com/Konfistador/HikingAppBackend/blob/main/docIMG/IntegrDiagram.jpg?raw=true)
 > Path overall architecture
 
