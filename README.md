@@ -23,6 +23,9 @@ Would love to create an entirely new refactored front end and try to launch as a
 When I started working on this project, I was feeling very comfortable in the Object Oriented World of Java. It felt so strange at first to work with Typescript, with the absence of an empirical type system and an emphasis on funcitonal programming paradigms. As an engineer, it was interesting to see that software that fulfill certain requirements can be succesfuly built, using different technologies. In addition to this, it was interesting to implement Programming concepts into different languages and exprience the similiarity between technologies.
 > This created the idea of Programming Languages, simply being the bricks and tools for building. Logically contionued, we can imagine that our choice of materials and tools will depend on the favorable end result.
 
+### Awards and Recognition
+Path was awarded third place in the annual competition between PRJ4 Groups at Fontys Venlo.
+
 ## Under the Hood 
 
 ### Database Schema
